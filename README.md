@@ -8,10 +8,10 @@ Everyone has their own personal reading history, and as we grow up, we are able 
 Learn to call programs from the command-line and get more experience with using regexes and Math class.
 
 ## What you’ll do and what you’ll learn
-- [Stage 1/4: Simplest estimation](https://hyperskill.org/projects/39/stages/205/implement) Input a phrase or a sentence for the program to determine its difficulty level based on the symbol count. 
-- [Stage 2/4: Words and sentences ](https://hyperskill.org/projects/39/stages/206/implement) Apply your knowledge of advanced strings, arrays and regular expressions: determine how difficult the text is judging by the average count of words in the sentences. 
-- [Stage 3/4: Score!](https://hyperskill.org/projects/39/stages/207/implement) Add a readability score based on a special formula: it will estimate the difficulty levels of larger bodies of texts uploaded from a file. 
-- [Stage 4/4: More parameters](https://hyperskill.org/projects/39/stages/208/implement) More parameters can be taken into account: for example, you can consider syllables and letters. Enable the program to base its estimation on those parameters altogether. 
+- [Stage 1/4: Simplest estimation] Input a phrase or a sentence for the program to determine its difficulty level based on the symbol count. 
+- [Stage 2/4: Words and sentences ] Apply your knowledge of advanced strings, arrays and regular expressions: determine how difficult the text is judging by the average count of words in the sentences. 
+- [Stage 3/4: Score!] Add a readability score based on a special formula: it will estimate the difficulty levels of larger bodies of texts uploaded from a file. 
+- [Stage 4/4: More parameters] More parameters can be taken into account: for example, you can consider syllables and letters. Enable the program to base its estimation on those parameters altogether. 
 
 ## Output example
 
