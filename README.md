@@ -45,4 +45,4 @@ This text should be understood in average by 14.25 year olds.
 ```
 ## UML Diagrams
 
-![Package readability](uml/readability.png)
+![Package readability](readability.png)
