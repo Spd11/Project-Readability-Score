@@ -1,4 +1,4 @@
-# JetBrains Academy. Project: Readability Score
+#  Project: Readability Score
 
 ## About
 
