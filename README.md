@@ -1,4 +1,4 @@
-# Project: Readability Score
+# JetBrains Academy. Project: Readability Score
 
 ## About
 
@@ -45,4 +45,4 @@ This text should be understood in average by 14.25 year olds.
 ```
 ## UML Diagrams
 
-![Package readability](readability.png)
+![Package readability](uml/readability.png)
